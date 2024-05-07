@@ -2,7 +2,7 @@
 
 The Superchain token list is a list of tokens managed by the maintainers of this repo that have been deployed on Superchains including the OP Mainnet and Base. It serves as a source of truth for services such as the [Optimism bridge UI](https://app.optimism.io/bridge).
 
-It is worth noting that the Superchain Token List makes a distinction between token deployment / bridging and list curation. Tokens can be deployed / bridged in a permissionless manner, [anyone can deploy / bridge a token](https://github.com/ethereum-optimism/optimism-tutorial/tree/01e4f94fa2671cfed0c6c82257345f77b3b858ef/standard-bridge-standard-token) on the Superchain.
+It is worth noting that the Superchain Token List makes a distinction between token deployment / bridging and list curation. Tokens can be deployed / bridged in a permissionless manner, [anyone can deploy / bridge a token](https://github.com/ethereum-optimism/optimism-tutorial/tree/01e4f94fa2671cfed0c6c82257345f77b3b858ef/standard-bridge-standard-token) on the Superchain. 
 
 Please note that by adding a token to the list we aren’t making any claims about the token itself; tokens are not reviewed for their quality, merits, or soundness as investments.
 
